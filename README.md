@@ -55,3 +55,26 @@ The data model follows a Star Schema, consisting of one central fact table and s
 🟥 Dimension Table: Date_Table
  - Date, Month, Quarter, Year, MonthNumber, DayOfWeek
 
+Relevant relationships were then established between the above table to produce the following data model:
+ <p align="center">
+ <img alt="Data Model" src="https://github.com/andyababio/RETAIL-ANALYTICS/blob/main/Images/Retail%20Data%20Model.png" width="60%" />
+ </p>
+ 
+ ---
+ 
+## 📊 Dashboard Overview  
+
+<p align="center">
+  <img src="https://github.com/andyababio/RETAIL-ANALYTICS/blob/main/Images/Products.png" alt="Products" width="60%" />
+</p>
+<p align="center">
+   <img src="https://github.com/andyababio/RETAIL-ANALYTICS/blob/main/Images/Dashboard.png" alt="Dashboard" width="48%" />
+  <img src="https://github.com/andyababio/RETAIL-ANALYTICS/blob/main/Images/Customer.png" alt="Customer" width="48%" />
+</p>
+
+---
+## Key Insights
+
+ 
+
+
