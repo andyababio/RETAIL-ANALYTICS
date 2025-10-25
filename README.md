@@ -1,4 +1,4 @@
-# 🏬 RETAIL ANALYTICS DASHBOARD: SALES, PROFITABILITY & CUSTOMER INSIGHTS
+# RETAIL ANALYTICS DASHBOARD: SALES, PROFITABILITY & CUSTOMER INSIGHTS
 
 ## Introduction
 In today’s retail landscape, understanding the key drivers of sales, profitability, and customer behavior is essential for sustaining growth and maintaining competitiveness. The ability to identify what influences performance — from product categories to customer demographics — empowers decision-makers to act strategically and efficiently.
@@ -74,7 +74,9 @@ Relevant relationships were then established between the above table to produce 
 
 ---
 ## Key Insights
-
- 
+**1. Overall Business Performance (Sales, Revenue, and Trends)**
+- Axis and Oak demonstrates strong overall business performance, generating a cumulative **$54 million** in revenue and **$14 million** in profit since its inception in 2011.
+ - The business achieves its peak performance in January, contributing the highest shares of **revenue (9%)**, **profit (9.01%)**, and **transactions (8.8%)**, indicating strong customer activity at the start of the year.
+ - However, product returns have a notable financial impact, reducing total revenue by approximately 10%. Return volumes are highest in January and July, highlighting potential issues related to post-holiday or mid-year product cycles that may warrant closer review.
 
 
