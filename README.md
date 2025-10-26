@@ -91,7 +91,7 @@ Relevant relationships were then established between the above table to produce 
  - However, product returns have a notable financial impact, reducing total revenue by approximately 10%. Return volumes are highest in January and July, highlighting potential issues related to post-holiday or mid-year product cycles that may warrant closer review.
 
 <p align="center">
-   <img src="https://github.com/andyababio/RETAIL-ANALYTICS/blob/main/Images/Dashboard.png" 
+   <img src="Images/Overview.png" 
         alt="Dashboard" width="60%" />
 </p>
 
@@ -129,7 +129,7 @@ Recommended Action:
  - Leverage demographic insights to refine promotional messaging for balanced customer outreach.
 
 <p align="center">
-   <img src="https://github.com/andyababio/RETAIL-ANALYTICS/blob/main/Images/Dashboard.png" 
+   <img src="Images/Proft and Returns MOM.png" 
         alt="Dashboard" width="60%" />
 </p>
 
@@ -160,7 +160,7 @@ Recommended Action:
 
 ### Product Page
 <p align="center">
-   <img src="https://github.com/andyababio/RETAIL-ANALYTICS/blob/main/Images/Dashboard.png" 
+   <img src="Images/Product - KPI.png" 
         alt="Dashboard" width="60%" />
 </p>
 <p> ◻ Key Product Performance Indicators </p>
@@ -172,7 +172,7 @@ Recommended Action:
 
 
 <p align="center">
-   <img src="https://github.com/andyababio/RETAIL-ANALYTICS/blob/main/Images/Dashboard.png" 
+   <img src="Images/product 2.png" 
         alt="Dashboard" width="60%" />
 </p>
 
@@ -210,7 +210,7 @@ Recommended Action:
  - Analyze return reasons by category to identify root causes specific to online transactions.
 
 <p align="center">
-   <img src="https://github.com/andyababio/RETAIL-ANALYTICS/blob/main/Images/Dashboard.png" 
+   <img src="Images/product 3.png" 
         alt="Dashboard" width="60%" />
 </p>
 
@@ -245,7 +245,7 @@ Recommended Action:
 ### Customer Page
 
 <p align="center">
-   <img src="https://github.com/andyababio/RETAIL-ANALYTICS/blob/main/Images/Dashboard.png" 
+   <img src="Images/Customer overview.png" 
         alt="Dashboard" width="60%" />
 </p>
 
@@ -259,7 +259,7 @@ Recommended Action:
 
 
 <p align="center">
-   <img src="https://github.com/andyababio/RETAIL-ANALYTICS/blob/main/Images/Dashboard.png" 
+   <img src="Images/customer 2.png" 
         alt="Dashboard" width="60%" />
 </p>
 
@@ -288,7 +288,7 @@ Recommended Action:
 
 
 <p align="center">
-   <img src="https://github.com/andyababio/RETAIL-ANALYTICS/blob/main/Images/Dashboard.png" 
+   <img src="Images/Customer 3.png" 
         alt="Dashboard" width="60%" />
 </p>
 
