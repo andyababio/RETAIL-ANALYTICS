@@ -1,0 +1,84 @@
+/* ==========================================================
+   DATABASE: retail_store_db
+   PURPOSE: Data Cleaning & Preparation Script
+   ========================================================== */
+
+-- Create and select the database
+CREATE DATABASE IF NOT EXISTS retail_store_db;
+USE retail_store_db;
+
+-- Preview data
+SELECT * FROM transactions LIMIT 10;
+
+-- ==========================================================
+-- CLEANING TRAN_DATE
+-- ==========================================================
+
+-- Inspect inconsistent date formats
+SELECT tran_date
+FROM transactions
+WHERE tran_date LIKE '%-%' OR tran_date LIKE '%/%';
+
+-- Standardize separators to '-'
+START TRANSACTION;
+UPDATE transactions
+SET tran_date = REPLACE(tran_date, '/', '-');
+COMMIT;
+
+-- Add a new column for cleaned dates
+ALTER TABLE transactions
+ADD COLUMN tran_date_clean DATE;
+
+-- Convert to proper DATE format (DD-MM-YYYY)
+START TRANSACTION;
+UPDATE transactions
+SET tran_date_clean = STR_TO_DATE(tran_date, '%d-%m-%Y');
+COMMIT;
+
+-- Drop the old column and rename the cleaned one
+ALTER TABLE transactions
+DROP COLUMN tran_date;
+
+ALTER TABLE transactions
+CHANGE tran_date_clean tran_date DATE;
+
+
+-- ==========================================================
+-- CREATE TRANSACTION STATUS (Sale / Return)
+-- ==========================================================
+
+ALTER TABLE transactions
+ADD COLUMN Transaction_status VARCHAR(10);
+
+START TRANSACTION;
+UPDATE transactions
+SET Transaction_status = CASE
+    WHEN total_amt > 0 THEN 'Sale'
+    WHEN total_amt < 0 THEN 'Return'
+    ELSE NULL
+END;
+COMMIT;
+
+
+-- ==========================================================
+-- CALCULATE PROFIT (based on Profit Margin %)
+-- ==========================================================
+
+-- Add profit column
+ALTER TABLE transactions
+ADD COLUMN Profit DECIMAL(10,2);
+
+-- Calculate profit if Profit_Margin_% exists
+START TRANSACTION;
+UPDATE transactions
+SET Profit = ROUND((`Profit_Margin_%` / 100) * total_amt, 2);
+COMMIT;
+
+
+-- ==========================================================
+-- FIX COLUMN NAME ISSUES
+-- ==========================================================
+
+-- Rename incorrect or misencoded column name
+ALTER TABLE transactions
+CHANGE `ï»¿transaction_id` transaction_id BIGINT;
