@@ -1,8 +1,6 @@
 # RETAIL ANALYTICS DASHBOARD: SALES, PROFITABILITY & CUSTOMER INSIGHTS
 
 ## Introduction
-In today’s retail landscape, understanding the key drivers of sales, profitability, and customer behavior is essential for sustaining growth and maintaining competitiveness. The ability to identify what influences performance — from product categories to customer demographics — empowers decision-makers to act strategically and efficiently.
-
 This dashboard was developed for Axis and Oak, a U.S.-based retail store dealing in books, clothing, electronics, and other consumer goods. The goal is to provide a clear snapshot of the store’s current business performance and uncover insights that will help executives determine where to focus effort and resources for maximum impact.
 
 ◼ Financial Overview
@@ -22,19 +20,19 @@ This dashboard was developed for Axis and Oak, a U.S.-based retail store dealing
 ## 🔄 Process Flow
 
 Data Preparation (MySQL):
-The raw retail data was cleaned and transformed in MySQL to ensure consistency and accuracy across all tables — including transactions, customers, products, and dates.
+The raw retail data was cleaned and transformed in MySQL.
+See script here:
+
 
 Data Modeling (Power BI):
-The cleaned datasets were imported into Power BI, where relationships were defined between fact and dimension tables to create a robust star schema model.
+The cleaned datasets were imported into Power BI for data modeling.
 
 Data Visualization & Analysis:
-With the model established, interactive visuals and KPIs were developed in Power BI to highlight trends, relationships, and performance metrics across sales, profit, and customer dimensions.
+I then developed interactive visuals and KPIs in Power BI using **DAX** to highlight trends, relationships, and performance metrics.
 
 ---
 
 ## 🗂️ Dataset Overview
-
-The data model follows a Star Schema, consisting of one central fact table and supporting dimension tables, ensuring efficient relationships and calculations within Power BI.
 
 🟥 Fact Table: Transactions
  - Transaction_ID – Unique identifier for each transaction
