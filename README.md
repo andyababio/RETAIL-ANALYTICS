@@ -92,7 +92,7 @@ Relevant relationships were then established between the above table to produce 
 
 <p align="center">
    <img src="Images/Overview.png" 
-        alt="Dashboard" width="60%" />
+        alt="Dashboard"/>
 </p>
 
 <p> ◻ Year-on-Year Profit Growth </p>
@@ -130,7 +130,7 @@ Recommended Action:
 
 <p align="center">
    <img src="Images/Proft and Returns MOM.png" 
-        alt="Dashboard" width="60%" />
+        alt="Dashboard"/>
 </p>
 
 <p> ◻ Profit Trends (Month-on-Month) </p> 
@@ -161,7 +161,7 @@ Recommended Action:
 ### Product Page
 <p align="center">
    <img src="Images/Product - KPI.png" 
-        alt="Dashboard" width="60%" />
+        alt="Dashboard"/>
 </p>
 <p> ◻ Key Product Performance Indicators </p>
 Books remain the top-selling product category, driven primarily by the Women’s subcategory, while the e-Shop leads as the highest-performing sales channel, reflecting the growing strength of digital retail engagement.
@@ -173,7 +173,7 @@ Recommended Action:
 
 <p align="center">
    <img src="Images/product 2.png" 
-        alt="Dashboard" width="60%" />
+        alt="Dashboard"/>
 </p>
 
 
@@ -211,7 +211,7 @@ Recommended Action:
 
 <p align="center">
    <img src="Images/product 3.png" 
-        alt="Dashboard" width="60%" />
+        alt="Dashboard"/>
 </p>
 
 
@@ -246,7 +246,7 @@ Recommended Action:
 
 <p align="center">
    <img src="Images/Customer overview.png" 
-        alt="Dashboard" width="60%" />
+        alt="Dashboard"/>
 </p>
 
 
@@ -260,7 +260,7 @@ Recommended Action:
 
 <p align="center">
    <img src="Images/customer 2.png" 
-        alt="Dashboard" width="60%" />
+        alt="Dashboard" />
 </p>
 
 
@@ -289,7 +289,7 @@ Recommended Action:
 
 <p align="center">
    <img src="Images/Customer 3.png" 
-        alt="Dashboard" width="60%" />
+        alt="Dashboard" />
 </p>
 
 <p>◻ Revenue and Profit by Age Group</p>
