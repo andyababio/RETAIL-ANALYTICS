@@ -67,16 +67,16 @@ Relevant relationships were then established between the above table to produce 
 <!-- Summary Page -->
 <h3 align="center">Summary Page</h3>
 <p align="center">
-   <img src="https://github.com/andyababio/RETAIL-ANALYTICS/blob/main/Images/Dashboard.png" 
+   <img src="" 
         alt="Dashboard" width="60%" />
 </p>
 
 <!-- Products & Customers Pages Side by Side -->
 <h4 align="center">Products & Customer Page</h4>
 <p align="center">
-      <img src="https://github.com/andyababio/RETAIL-ANALYTICS/blob/main/Images/Products.png" 
+      <img src="" 
            alt="Products" width="45%" />
-      <img src="https://github.com/andyababio/RETAIL-ANALYTICS/blob/main/Images/Customer.png" 
+      <img src="" 
            alt="Customer" width="45%" />
 </p>
 
