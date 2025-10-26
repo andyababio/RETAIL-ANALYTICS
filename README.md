@@ -20,8 +20,8 @@ This dashboard was developed for Axis and Oak, a U.S.-based retail store dealing
 ## 🔄 Process Flow
 
 Data Preparation (MySQL):
-The raw retail data was cleaned and transformed in MySQL.
-See script here:
+The raw retail data was cleaned and transformed in MySQL.  
+See script [here](https://github.com/andyababio/RETAIL-ANALYTICS/blob/main/mysql_script_retail_store).
 
 
 Data Modeling (Power BI):
