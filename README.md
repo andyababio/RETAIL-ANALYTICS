@@ -128,6 +128,11 @@ Recommended Action:
  - Identify opportunities to increase male customer participation through personalized product recommendations or male-focused categories.
  - Leverage demographic insights to refine promotional messaging for balanced customer outreach.
 
+<p align="center">
+   <img src="https://github.com/andyababio/RETAIL-ANALYTICS/blob/main/Images/Dashboard.png" 
+        alt="Dashboard" width="60%" />
+</p>
+
 <p> ◻ Profit Trends (Month-on-Month) </p> 
 Monthly profit levels remain relatively stable, averaging around $1.2 million. January ($1.33M) and October ($1.32M) are top-performing months, mirroring transaction peaks, while June ($1.12M) records the lowest profit.
 
@@ -238,6 +243,7 @@ Recommended Action:
  
 
 ### Customer Page
+
 <p align="center">
    <img src="https://github.com/andyababio/RETAIL-ANALYTICS/blob/main/Images/Dashboard.png" 
         alt="Dashboard" width="60%" />
@@ -245,7 +251,7 @@ Recommended Action:
 
 
 <p>◻ Customer Overview</p>
-The customer base consists of **5,647 distinct customers**, each generating an average of **₵9.64K in revenue** and completing around **4 transactions** on average. This indicates strong engagement and purchase frequency across customer segments.
+The customer base consists of 5,647 distinct customers**, each generating an average of ₵9.64K in revenue and completing around 4 transactions on average. This indicates strong engagement and purchase frequency across customer segments.
 
 Recommended Action:
  - Identify and reward high-value repeat customers with loyalty programs.
