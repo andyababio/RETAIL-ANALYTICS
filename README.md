@@ -128,3 +128,95 @@ Recommended Action:
  - Continue optimizing top-selling categories through targeted advertising and inventory prioritization.
  - Revitalize underperforming categories (e.g., Bags and Clothing) with refreshed product designs, limited-time offers, or influencer partnerships.
  - Conduct product demand analysis to align inventory levels with high-interest categories and reduce overstock risk.
+
+### Product Page
+<p> ◻ Key Product Performance Indicators </p>
+Books remain the top-selling product category, driven primarily by the Women’s subcategory, while the e-Shop leads as the highest-performing sales channel, reflecting the growing strength of digital retail engagement.
+
+Recommended Action:
+ - Introduce cross-category promotions for top-performing segments (Books + Women’s Subcategory).
+ - Leverage online behavioral data to refine product recommendations and optimize conversion.
+
+<p> ◻ Profit by Store Type </p>
+The e-Shop delivers the highest profit ($6.0M), outperforming physical stores by a significant margin. However, all store types contribute meaningfully, with consistent profitability across Flagship, MBR, and TeleShop outlets.
+
+Recommended Action:
+ - Strengthen digital-first strategies, such as personalized online offers and streamlined checkout experiences.
+ - Benchmark operational efficiency from e-Shop processes to enhance Flagship and MBR performance.
+ - Explore hybrid retail initiatives combining online and offline experiences to maximize reach.
+
+<p> ◻ Returns by Age Group </p>
+Customers aged **45–54 (9.8%)** and **25–34 (9.1%)** record the highest return rates, indicating potential dissatisfaction among both mature and younger adult demographics.
+
+Recommended Action:
+ - Investigate category-specific reasons for returns within these age brackets.
+ - Refine product descriptions, sizing information, and quality assurance for high-return segments.
+ - Introduce satisfaction surveys or targeted follow-ups to identify underlying causes of product dissatisfaction.
+
+<p> ◻ Product Performance Matrix </p>
+Across categories, Footwear demonstrates the highest average profit margin (≈29.7%), while Books lead in both volume and total profit ($3.8M). Lower performers like Bags and Home & Kitchen show opportunities for pricing or assortment optimization.
+
+Recommended Action:
+ - Reinforce strong categories (Books, Electronics, Footwear) through bundled promotions and restock prioritization.
+ - Review pricing and cost structures for lower-margin items like Home & Kitchen.
+ - Streamline the Bags product line or introduce new collections aligned with current customer preferences.
+
+<p> ◻ Returns by Store Type </p>
+The e-Shop records the highest return rate (11.6%), nearly double that of TeleShop (6.5%), suggesting online purchasing friction or product expectation gaps.
+
+Recommended Action:
+ - Audit e-Shop product listings for clarity (e.g., images, specifications, delivery timelines).
+ - Enhance pre-purchase communication and introduce “try-before-you-buy” or easy returns policies.
+ - Analyze return reasons by category to identify root causes specific to online transactions.
+
+### Customer Page
+<p>◻ Customer Overview</p>
+The customer base consists of **5,647 distinct customers**, each generating an average of **₵9.64K in revenue** and completing around **4 transactions** on average. This indicates strong engagement and purchase frequency across customer segments.
+
+Recommended Action:
+ - Identify and reward high-value repeat customers with loyalty programs.
+ - Investigate lower-activity segments for targeted re-engagement campaigns
+
+<p>◻ Sales by Age Group</p>
+The **35–44** and **25–34** age groups dominate transactions, contributing over **70% of total sales volume**, confirming their position as the primary consumer demographic.
+
+Recommended Action:
+ - Maintain targeted marketing for 25–44-year-olds.
+ - Design promotions to attract the 55+ group, who show potential for higher revenue per purchase despite fewer transactions.
+
+ <p>◻ Customer Distribution by Region</p>
+Customer presence is concentrated in **Georgia, Illinois, and Florida**, each exceeding **850 active customers**. This reflects strong penetration in key states, while **California** and **North Carolina** represent growth opportunities.
+
+Recommended Action:
+ - Strengthen presence in top-performing states through regional partnerships or local ads.
+ - Explore expansion strategies in underrepresented markets (e.g., California, North Carolina).
+
+<p>◻ Profit by Gender</p>
+Across all months, **female customers consistently generate higher profits**, averaging around **20–25% more** per month compared to male customers.
+
+Recommended Action:
+ - Continue focusing marketing efforts on female buyers.
+ - Conduct sentiment or behavioral analysis to identify products with higher male engagement potential.
+
+<p>◻ Revenue and Profit by Age Group</p>
+The **35–44** and **25–34** age groups not only lead in sales volume but also deliver the highest profit contributions — **₵6.38M** and **₵5.85M**, respectively.
+
+Recommended Action:
+ - Prioritize product recommendations and campaigns for these two groups.
+ - Develop age-tailored offers (e.g., family bundles for 35–44, lifestyle products for 25–34).
+
+
+<p>◻ Returns by Age Group</p>
+Return rates are slightly higher among the **45–54** group (**9.8%**) and **25–34** (**9.1%**), suggesting possible issues with product expectations or fit for these demographics.
+
+Recommended Action:
+ - Review return reasons among these age groups.
+ - Optimize product descriptions, sizing, or return policies for improved satisfaction.
+
+---
+
+## Conclusion
+
+The analysis provides a holistic view of the business’s sales, profitability, and customer behavior across products, channels, and demographics. Overall, the company demonstrates strong performance driven by the Books and Electronics categories, a robust e-Shop channel, and a loyal customer base aged 25–44. Profitability trends indicate effective pricing and cost control, particularly within Footwear, while consistent female-driven profit contributions highlight a reliable customer segment.
+
+However, the data also reveals areas for optimization — notably, higher return rates in specific stores (e-Shop) and age groups (45–54), as well as lower revenue contributions from categories like Bags and Clothing. Addressing these will help balance the business’s revenue mix and improve overall customer satisfaction.
